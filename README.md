@@ -1,1 +1,6 @@
-# admin-dashoard
+![image](https://github.com/Jay-Dave7487/admin-dashoard/assets/75119694/d8066cfa-5483-41e4-91af-53d6a5f82cb7)
+![image](https://github.com/Jay-Dave7487/admin-dashoard/assets/75119694/4f0fcc72-7c64-4c83-b4be-a3b405c1c086)
+![image](https://github.com/Jay-Dave7487/admin-dashoard/assets/75119694/64c07394-f2b0-45a8-ac09-309d3cf39731)
+![image](https://github.com/Jay-Dave7487/admin-dashoard/assets/75119694/acc2661d-2a89-45c0-b585-184ad65ba839)
+![image](https://github.com/Jay-Dave7487/admin-dashoard/assets/75119694/1f990eff-e853-4af5-9627-651a3578a24a)
+![image](https://github.com/Jay-Dave7487/admin-dashoard/assets/75119694/98058e58-c1da-40c5-86b5-017f362f3f20)
